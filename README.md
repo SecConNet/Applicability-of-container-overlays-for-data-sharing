@@ -1,2 +1,5 @@
-# containers-overlay-scalability
-Testing the scalability of containers using Calico and Cilium
+# Applicability-of-container-overlays-for-data-sharing
+This repository includes the codes for evaluating the capbability of two container overlay technologies (Cilium and Calico) for data sharing application.
+
+
+

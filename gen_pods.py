@@ -1,7 +1,4 @@
 """
-Author: Niek van Noort
-Date: April 2019
-
 For a given json file which defines pods that should be launched on
 some nodes, this script creates yaml files which can spawn these pods.
 """

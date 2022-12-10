@@ -2,7 +2,6 @@
 This script creates a yaml and bash file for a policy. The bash script is
 to label existing pods with the policy labels.
 
-For each pod, a policy is created in the yaml file, each
 """
 
 import json

@@ -7,6 +7,6 @@ It includes below files:
 
 2. [/Applicability-of-container-overlays-for-data-sharing/gen_policies] (/gen_policies.py) :It creates a yaml and bash file for a policy. The bash script is to label existing pods with the policy labels
 
-3. [/Applicability-of-container-overlays-for-data-sharing/iperf_exp] (iperf_exp.sh) : This file automatically run iperf3 between two pods and stores the log of iperf3. 
+3. [/Applicability-of-container-overlays-for-data-sharing/iperf_exp] (/Applicability-of-container-overlays-for-data-sharing/iperf_exp.sh) : This file automatically run iperf3 between two pods and stores the log of iperf3. 
 
 
